@@ -1,3 +1,4 @@
+/*
 package com.zhyyu.learn.es.highlevelrestclient;
 
 import org.apache.http.HttpHost;
@@ -16,10 +17,12 @@ import org.elasticsearch.common.xcontent.XContentType;
 
 import java.io.IOException;
 
+*/
 /**
  * @author juror
  * @datatime 2020/1/3 11:41
- */
+ *//*
+
 public class DocApis {
 
     public static void main(String[] args) throws IOException {
@@ -70,3 +73,4 @@ public class DocApis {
     }
 
 }
+*/
